@@ -1,0 +1,24 @@
+section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.bottom {
+    display: flex;
+    align-items: center;
+    justify-content: center;    
+    margin: 80px 30px;
+}
+
+.right {
+    margin-left: 100px;
+}
+
+#outputDay {
+    background-color: red;
+    color: #fff;
+    
+}
